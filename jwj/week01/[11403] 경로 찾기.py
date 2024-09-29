@@ -1,3 +1,11 @@
+'''
+* Author    : Jang Woo Jin
+* Date      : 2024.09.29(Sun)
+* Runtime   : 212 ms
+* Memory    : 31120 KB
+* Algorithm : floyd warshall
+'''
+
 import sys
 input = sys.stdin.readline
 
