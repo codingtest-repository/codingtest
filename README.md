@@ -7,6 +7,7 @@
 | <img src="https://avatars.githubusercontent.com/dnwls16071" width="50px;"> | <span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 | <img src="https://avatars.githubusercontent.com/LeeJaeYun7" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 | <img src="https://avatars.githubusercontent.com/dldbdud314" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
+| <img src="https://avatars.githubusercontent.com/sominshim" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 
 
 ## 📂 디렉토리 구조
