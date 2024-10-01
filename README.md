@@ -5,7 +5,6 @@
 | 깃허브 | 언어 |
 |--------|:------:|
 | <img src="https://avatars.githubusercontent.com/dnwls16071" width="50px;"> | <span><img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
-| <img src="https://avatars.githubusercontent.com/LeeJaeYun7" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 | <img src="https://avatars.githubusercontent.com/dldbdud314" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 | <img src="https://avatars.githubusercontent.com/sominshim" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 
@@ -91,6 +90,9 @@
 
 ## ✅스터디원 출석부(☑️주차별 문제 선정자)
 
-| 주차 | 이유영 | 장우진 | ? | 
+| 주차 | 이유영 | 장우진 | 심소민 | 
 |:------:|:------:|:------:|:------:|
-|2024.09.30 ~ 2024.10.06| ☑️⭕| ⭕ | ❌ |
+|2024.09.30 ~ 2024.10.06| ☑️⭕| ⭕ | ⭕ |
+|2024.10.07 ~ 2024.10.13| |  |  |
+|2024.10.14 ~ 2024.10.20| |  |  |
+|2024.10.21 ~ 2024.10.27| |  |  |
