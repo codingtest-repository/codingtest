@@ -1,8 +1,8 @@
 """
 * Author    : SHIM SOMIN
 * Date      : 2024.10.04 (Fri)
-* Runtime   : 44 ms 
-* Memory    : 33240 KB  
+* Runtime   : 680 ms 
+* Memory    : 42300 KB  
 * Algorithm : 스택
  """
 
