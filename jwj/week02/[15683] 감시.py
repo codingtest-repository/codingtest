@@ -1,3 +1,11 @@
+'''
+* Author    : Jang Woo Jin
+* Date      : 2024.10.11(Fri)
+* Runtime   : 2452 ms
+* Memory    : 31684 KB
+* Algorithm : simulation
+'''
+
 import sys, copy
 input = sys.stdin.readline
 
