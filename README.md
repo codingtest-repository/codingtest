@@ -7,8 +7,6 @@
 | <img src="https://avatars.githubusercontent.com/dnwls16071" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 | <img src="https://avatars.githubusercontent.com/dldbdud314" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 | <img src="https://avatars.githubusercontent.com/sominshim" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
-| <img src="https://avatars.githubusercontent.com/rnalal" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
-
 
 ## 📂 디렉토리 구조
 
@@ -20,24 +18,18 @@
  ┗ 📜README.md (스터디 설명)
 ```
 
-**※ 아래 설명된 부분과 디렉터리 구조 부분이 다르게 명시했습니다. 혼동을 드려 죄송합니다.**
-<br>
-**※ 위의 디렉터리 구조로 통일하겠습니다.**
-
 ## 📝 파일 작성 가이드
 
 - 경쟁 목적이 아님
 - 리뷰어가 빠르게 접근할 수 있도록 작성
 - 작성 예시:
 
-```java
-/**
+```python
 * Author    : Hong Gil Dong
 * Date      : 2024.01.01(Mon)
 * Runtime   : 712 ms  // 프로그래머스의 경우 가장 안좋은 케이스
 * Memory    : 58612 KB  // 프로그래머스의 경우 가장 안좋은 케이스
 * Algorithm : Binary Search
- */
 ```
 
 ## 🚫 스터디 규칙
@@ -88,9 +80,9 @@
 
 ## ✅스터디원 출석부(☑️주차별 문제 선정자)
 
-| 주차 | 이유영 | 장우진 | 심소민 | 전재영 | 
-|:------:|:------:|:------:|:------:|:------:|
-|2024.09.30 ~ 2024.10.06| ☑️⭕| ⭕ | ⭕ | - |
-|2024.10.07 ~ 2024.10.13| ⭕ | ☑️⭕ | ⭕ | ⭕ |
-|2024.10.14 ~ 2024.10.20| |  |  | |
-|2024.10.21 ~ 2024.10.27| |  |  | |
+| 주차 | 이유영 | 장우진 | 심소민 |
+|:------:|:------:|:------:|:------:|
+|2024.09.30 ~ 2024.10.06| ☑️⭕| ⭕ | ⭕ |
+|2024.10.07 ~ 2024.10.13| ⭕ | ☑️⭕ | ❌ |
+|2024.10.14 ~ 2024.10.20| |  | ☑️ |
+|2024.10.21 ~ 2024.10.27| |  |  |
