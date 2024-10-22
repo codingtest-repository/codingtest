@@ -1,3 +1,12 @@
+'''
+* Author    : Jang Woo Jin
+* Date      : 2024.10.22(Tue)
+* Runtime   : 392 ms
+* Memory    : 37728 KB
+* Algorithm : topology sort
+'''
+
+
 import sys
 input = sys.stdin.readline
 from collections import deque
