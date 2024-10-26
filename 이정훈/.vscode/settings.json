@@ -15,6 +15,8 @@
         "format": "cpp",
         "initializer_list": "cpp",
         "span": "cpp",
-        "text_encoding": "cpp"
+        "text_encoding": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp"
     }
 }
