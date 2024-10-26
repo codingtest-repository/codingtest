@@ -1,3 +1,11 @@
+/*
+* Author    : Lee JeongHun
+* Date      : 2024.10.26(Sat)
+* Runtime   : 0 ms
+* Memory    : 2160 KB
+* Algorithm : implementation
+*/
+
 #include <iostream>
 #include <vector>
 #include <stack>

@@ -1,3 +1,11 @@
+/*
+* Author    : Lee JeongHun
+* Date      : 2024.10.26(Sat)
+* Runtime   : 524 ms
+* Memory    : 4936 KB
+* Algorithm : topology sort
+*/
+
 #include <iostream>
 #include <map>
 #include <vector>
