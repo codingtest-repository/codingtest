@@ -6,10 +6,8 @@
 |--------|:------:|
 | <img src="https://avatars.githubusercontent.com/dnwls16071" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 | <img src="https://avatars.githubusercontent.com/Eu4ng" width="50px;"> | <span><img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/></span> |
-| <img src="https://avatars.githubusercontent.com/sominshim" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 | <img src="https://avatars.githubusercontent.com/teon98" width="50px;"> | <span><img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/></span> |
 | <img src="https://avatars.githubusercontent.com/Kang-bh" width="50px;"> | <span><img src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white"/></span> |
-
 
 ## 📂 디렉토리 구조
 
@@ -86,10 +84,10 @@
 
 ## ✅스터디원 출석부(✅주차별 문제 선정자)
 
-| 주차 | 이유영 | 장우진 | 심소민 | 태영 | 강병호 | 이정훈 |
+| 주차 | 이유영 | 장우진 | 심소민 | 강태영 | 강병호 | 이정훈 |
 |:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |2024.09.30 ~ 2024.10.06| ✅⭕| ⭕ | ⭕ | - | - | - |
 |2024.10.07 ~ 2024.10.13| ⭕ | ✅⭕ | 사유(개인사정) | - | - | - |
 |2024.10.14 ~ 2024.10.20| ⭕ | ⭕ | ✅⭕ | - | - | - |
-|2024.10.21 ~ 2024.10.27| 스터디 하차 | ✅⭕ | - | 사유(모임) | 사유(시험) | ⭕ |
-|2024.10.21 ~ 2024.10.27| - |  | | |  | ✅ |
+|2024.10.21 ~ 2024.10.27| 스터디 하차 | ✅⭕ | 스터디 하차 | 사유(모임) | 사유(시험) | ⭕ |
+|2024.10.21 ~ 2024.10.27| - |  | - | |  | ✅ |
