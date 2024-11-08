@@ -1,6 +1,6 @@
 '''
 * Author    : Jang Woo Jin
-* Date      : 2024.11.08(Mon)
+* Date      : 2024.11.08(Fri)
 * Runtime   : 3744 ms
 * Memory    : 111028 KB (PyPy3)
 * Algorithm : Dynamic Programming
